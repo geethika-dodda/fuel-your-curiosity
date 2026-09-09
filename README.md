@@ -62,7 +62,7 @@ If you want to run the project on your own computer:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/geethika-dodda/fuel-your-curiosity.git
 ```
 
 ### 2. Open the project folder
